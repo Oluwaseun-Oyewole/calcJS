@@ -2,5 +2,4 @@
 
 ![alt text](images/Capture.PNG)
 
-![alt text](images/Capture3.PNG)
-![alt text](images/Capture4.PNG)
+![alt text](images/Capture1.PNG)
