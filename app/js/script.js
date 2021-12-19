@@ -1,6 +1,5 @@
 const body = document.querySelector('.container1')
 const theme = document.querySelector('.theme1')
-const span = document.querySelector('.span')
 const toggleIcon = document.querySelector('.toggle-icon')
 
 
@@ -162,7 +161,6 @@ keys.addEventListener('click', (e) => {
         return 
     }
 
-
     if(target.classList.contains('reset')){
         resetCalc(target.value);
         updateDisplay()
@@ -175,7 +173,6 @@ keys.addEventListener('click', (e) => {
         updateDisplay()
         
     }
-    
 
     inputDigit(target.value)
     updateDisplay()
