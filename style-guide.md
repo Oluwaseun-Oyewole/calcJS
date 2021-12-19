@@ -1,4 +1,4 @@
-# Front-end Style Guide
+ # Front-end Style Guide
 
 ## Layout
 
@@ -28,7 +28,7 @@ The designs were created to the following widths:
 - Light grayish orange (key background): hsl(30, 25%, 89%)
 - Grayish orange (key shadow): hsl(28, 16%, 65%)
 
-#### Text
+#### Text 
 
 - Very dark grayish blue: hsl(221, 14%, 31%)
 - White: hsl(0, 0, 100%)
