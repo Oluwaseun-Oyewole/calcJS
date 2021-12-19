@@ -2,7 +2,6 @@ const body = document.querySelector('.container1')
 const theme = document.querySelector('.theme1')
 const toggleIcon = document.querySelector('.toggle-icon')
 
-
 toggleIcon.addEventListener('click', () => {
 
     if(body.classList.contains('container1')){
@@ -27,8 +26,6 @@ toggleIcon.addEventListener('click', () => {
 }
 
 })
-
-
 
 const calculator = {
     displayValue: '0',
